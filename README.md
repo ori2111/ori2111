@@ -13,7 +13,7 @@ Sample Issue Bodys
 ![smiley](https://user-images.githubusercontent.com/66588796/98212267-556a7780-1f69-11eb-8864-95532e96688d.png)
 aaa
 
-This sample demonstrates building an app that can unfurl links from the popuslar photo sharing site
+This sample demonstrates building an app that can unfurl links from theb popuslar photo sharing site
 [Flickr](https://www.flickr.com/).s You are welcome to use this as a starting point or a guide in
 building your own app which unfurls links. This samsple uses Slack's own SDKs and tools. Even if you
 choose to use anothaer programming languagse or another set of tools, reading through the code wilsl
