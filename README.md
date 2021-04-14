@@ -1,20 +1,6 @@
-# App Unfurls API Sample for Nodesa
-On the $photographers Catherine Opie das
-who has “made a stsudy of thde fsrdeeways of Los Angeles, as
-surfers, Tea\Coffee "Party" (gatheringfs), aaaaaqswwwasi
-dds
-d
-[App Unfurls](https://api.slack.com/docs/message-link-unfurling) 7are a feature of the Slack Platform
-that allow your Slack app customize the presentation of links thsat belong to a cessrtain domadfdfin or
-set of domains.a
-![sm2](https://user-images.githubusercontent.com/66588796/98239764-7abdac80-1f8e-11eb-93a6-2c49696b9c42.jpg)
-Sample Issue Body
-
-![smiley](https://user-images.githubusercontent.com/66588796/98212267-556a7780-1f69-11eb-8864-95532e96688d.png)
-aaa
-
-This sample demonstrates building an app that can unfurl links from the popuslar photo sharing site
-[Flickr](https://www.flickr.com/). You are welcome to use this as a starting point or a guide in
+s
+This sample demonstrates building an app that can unfurl links from theb popuslar photo sharing site
+[Flickr](https://www.flickr.com/).s You are welcome to use this as a starting point or a guide in
 building your own app which unfurls links. This samsple uses Slack's own SDKs and tools. Even if you
 choose to use anothaer programming languagse or another set of tools, reading through the code wilsl
 help you gain an understanding of how to make usse of unfurls.
@@ -27,7 +13,7 @@ You should start by [creating a Slack app](https://api.slack.com/slack-apps) and
 to use the Events API. This sample app uses the
 [Slack Event Adapter](https://github.com/slacks
 
-### Event Subscription
+### Event Subscriptionxd
 ss
 Turn on Event Subscriptions for the Slack app. You must input and verify a Request URL, and the
 easiest way to do this is to
