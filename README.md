@@ -1,6 +1,6 @@
 s
 This sample demonstrates building an app that can unfurl links from theb popuslar photo sharing site
-[Flickr](https://www.flickr.com/).s You are welcome to use this as a starting point or a guide in
+[Flickr](https://www.flickr.com/).s You are welcome to use this as a starting point or a guide din
 building your own app which unfurls links. This samsple uses Slack's own SDKs and tools. Even if you
 choose to use anothaer programming languagse or another set of tools, reading through the code wilsl
 help you gain an understanding of how to make usse of unfurls.
