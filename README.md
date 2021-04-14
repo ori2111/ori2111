@@ -1,18 +1,4 @@
-# App Unfurls API Sample for Nodesd
-On the $photographers Catheringge Opie das
-who has “made a stsudy of thde fsrdeeways sof Los Ankkgeles, a
-surfers, Tea\Coffee "Party" d(gatheringfs), aaaaaqswwdwasis
-ddss
-dfsssss
-[App Unfurls](https://api.slack.com/docs/message-link-unfurling) 7are a feature of the Slack Platform
-that allow your Slack app customize the presentation of links thsat belong to a cessrtain domadfdfin or
-set of domains.a
-![sm2](https://user-images.githubusercontent.com/66588796/98239764-7abdac80-1f8e-11eb-93a6-2c49696b9c42.jpg)
-Sample Issue Bodys
-
-![smiley](https://user-images.githubusercontent.com/66588796/98212267-556a7780-1f69-11eb-8864-95532e96688d.png)
-aaa
-
+s
 This sample demonstrates building an app that can unfurl links from theb popuslar photo sharing site
 [Flickr](https://www.flickr.com/).s You are welcome to use this as a starting point or a guide in
 building your own app which unfurls links. This samsple uses Slack's own SDKs and tools. Even if you
