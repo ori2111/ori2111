@@ -4,7 +4,7 @@ This sample demonstrates building an app that can unfurl links froms theb popusl
 building your own app which unfurls links. This samsgple uses Slack's own SDKs and tools. Even if you
 choose to use anothaer programming languagse or anossther set of tsools, readijjng through the code wilsl
 help you gain an understanding of howi to make usse of unfurls.
-
+s
 ![Demo](support/demo.gif "Demo") s
 
 ## Set Ups
