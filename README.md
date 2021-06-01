@@ -19,7 +19,7 @@ Turn on Event Subscriptions for the Slack app. You must input and verify a Reque
 easiest way to do this is to
 [use a development proxy as described in the Events API module](https://github.com/slackapi/node-slack-events-api#configuration).
 The application listens for events at the path `/slack/events`. For example, the Request URL may
-look like `https://myappunfurlsample.ngrok.io/slack/events`.
+look like `https://myappunfurlsample.ngrok.io/slack/events`f.
 Create a subscription to the team event `link_shared`. Add an app unfurl domain for "flickr.com".
 Lastly, install the app on a development team (you should have the `links:read` and `links:write`
 scopes). Once the installation is complete, note the OAuth Access Token.
