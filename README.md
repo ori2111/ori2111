@@ -10,7 +10,7 @@ s
 ## Set Ups
 
 You should start by [creating a Slack app](https://api.slack.com/slack-apps) and configuring it
-to use the Events API. This sample app uses the
+to use the Events API. This sample app uhses the
 [Slack Event Adapter](https://github.com/slacks
 
 ### Event Subscriptionxd
