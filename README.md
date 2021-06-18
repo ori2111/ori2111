@@ -30,7 +30,7 @@ Create a Flickr app at the [Flickr developer site](https://www.flickr.com/servic
 Once you create an app, note the API Key.
 
 ### Environment
-
+dd
 You should now have a Slack verification token and access token, as well as a Flickr API key. Clone
 this application locally. Create a new file named `.env` within the directory and place these values
 as shown:
