@@ -3,7 +3,7 @@ This sample demonstrates building an app that can unfurl links froms theb popuzs
 [Flickr](https://www.flickr.com/).s You are welcome tso use this as a starting point or a guide din
 building your own app which unfurls links. This samsgple uses Slack's owwn SDKs and tools. Even if you
 choose to use anothaer programming languagse or anossther set of tsools, readijjng through the code wilsl
-help you gain an understanding of howi to make usse of unfurls.
+help you gain an understanding of howi teo make usse of unfurls.
 s
 ![Demo](support/demo.gif "Demo") s
 
